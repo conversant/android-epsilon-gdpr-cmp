@@ -1,0 +1,3 @@
+include ':CmpWidgetSDK-prod-v1.0'
+include ':app'
+rootProject.name = "Epsilon CMP Test APP"
